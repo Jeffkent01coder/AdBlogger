@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527972160899",
+    "project_id": "adblogger-5c48c",
+    "storage_bucket": "adblogger-5c48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527972160899:android:831e3f5cb36fa8818352b6",
+        "android_client_info": {
+          "package_name": "com.example.adblogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527972160899-slhsgn6e2p5hdnel1pm9v6b2pdck72s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxSD8Nx49D0DAaijUY3q-gg2WAN-y9So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527972160899-slhsgn6e2p5hdnel1pm9v6b2pdck72s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
